@@ -1,0 +1,75 @@
+[
+	{
+		"image": "img/detail/web/web01detail.gif",
+		"link": "../week1/about.html",
+		"title": "R&eacutesum&eacute",
+		"text": "<em>Assignment:</em><p>Create your own personal website. Create an about me page and style it with CSS. Add a resume page and link the two together.</p><p>Style the page however you want. We took at look at color (i.e. red, #ff0000, rgb(255, 0,0)), background-color, font-weight (bold, normal), font-family (i.e. Arial, \"Times New Roman\"), font-style (normal, italic), text-decoration (underline, none), text-align (center, left, right).</p>"
+	},
+
+	{
+		"image": "img/detail/web/web02detail.gif",
+		"link": "../week2/fashion-blog-part2/index.html",
+		"title": "Fashion Blog",
+		"text": "<em>Assignment:</em><p>Recreate the site in Design.png from the copy provided in copy.txt and the Design guidance in readme.txt. You will create the Markup from copy.txt.</p><p>The embedded font and normalization have already been done in the <head> for you.</p><p>Don't worry about pixel perfection unless you have a lot of spare time. Get it as close as you can.</p><p>Challenge: Tackle the two column blog! You will need to use CSS Floats (and/or possibly display: inline-block). Google will be your best friend. However, attempt at your own risk!</p>"
+	},
+
+	{
+		"image": "img/detail/web/web03detail.gif",
+		"link": "../week3/index.html",
+		"title": "Busy Hands",
+		"text": "<em>Assignment:</em><p>Complete the Busy Hands assignment we started in class.</p><p>Attached you will find:</p><ul><li>Project Zip file (again)</li><li>Photos of the layout we made on the board, some markup/style hints</li><li>The finished Social Media sprites exercise, if you feel like tackling sprites. We will cover sprites in a future lesson, and I will post some resources during the week. In the meantime, feel free to use the standalone image files in either the selected or unselected state with the &lta href=\"#\"&gt&ltimg src=\"blah\"&gt&lt/a&gt</li></ul>"
+
+	},
+
+	{
+		"image": "img/detail/web/web04detail.gif",
+		"link": "../week4/v2/index.html",
+		"title": "Temperature Converter\nColor Picker",
+		"text": "<em>Assignment:</em>"
+	},
+
+	{
+		"image": "img/detail/web/web05detail.gif",
+		"link": "../week5/dating/index.html",
+		"title": "Dating Profile",
+		"text": "<em>Assignment:</em>"
+	},	
+
+	{
+		"image": "img/detail/web/web06detail.gif",
+		"link": "../week5/addingbox/index.html",
+		"title": "Adding Box",
+		"text": "<em>Assignment:</em>"
+	},
+
+	{
+		"image": "img/detail/web/web07detail.gif",
+		"link": "../week6/pick-your-external/index.html",
+		"title": "Ipsum Picker",
+		"text": "<em>Assignment:</em>"
+	},
+
+	{
+		"image": "img/detail/web/web08detail.gif",
+		"link": "../week6/challenge/index.html",
+		"title": "The Divided Times",
+		"text": "<em>Assignment:</em>"
+	},
+
+	{
+		"image": "img/detail/web/web09detail.gif",
+		"link": "../week7/index.html",
+		"title": "Startup Match",
+		"text": "<em>Assignment:</em>"
+	},
+
+	{
+		"image": "img/detail/web/web10detail.gif",
+		"link": "../week8/farm-party/index.html",
+		"title": "Farm Party",
+		"text": "<em>Assignment:</em>"
+	}
+]
+
+
+

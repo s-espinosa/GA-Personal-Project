@@ -1,0 +1,65 @@
+/** {
+	border: black solid 1px;
+}*/
+
+#bpmSlider {
+	float: left;
+	width: 458px;
+	margin: 32px 0 0 10px;
+}
+
+#bpmSlider .ui-slider-range{
+	background: #CC0000;
+}
+
+.wrapper {
+	width: 640px;
+	margin: 0 auto;
+}
+
+.pads, #start, #stop, #kick, #snare, #hatClosed, #hatOpen {
+	height: 60px;
+	width: 60px;
+	float: left;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.pads {
+	background-color: #A4A6A5;
+
+}
+
+#start {
+	background-color: #006600;
+}
+
+#stop {
+	background-color: #CC0000;
+}
+
+#kick {
+	background-color: purple;
+}
+
+#snare {
+	background-color: orange;
+}
+
+#hatClosed {
+	background-color: teal;
+}
+
+#hatOpen {
+	background-color: navy;
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}

@@ -1,0 +1,72 @@
+[
+	{
+		"image": "img/buttons/audio/audio01.gif",
+		"rollover": "img/buttons/audio/audio01hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio02.gif",
+		"rollover": "img/buttons/audio/audio02hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio03.gif",
+		"rollover": "img/buttons/audio/audio03hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio04.gif",
+		"rollover": "img/buttons/audio/audio04hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio05.gif",
+		"rollover": "img/buttons/audio/audio05hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio06.gif",
+		"rollover": "img/buttons/audio/audio06hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio07.gif",
+		"rollover": "img/buttons/audio/audio07hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio08.gif",
+		"rollover": "img/buttons/audio/audio08hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio09.gif",
+		"rollover": "img/buttons/audio/audio09hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio10.gif",
+		"rollover": "img/buttons/audio/audio10hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio11.gif",
+		"rollover": "img/buttons/audio/audio11hover.gif"
+	},
+
+
+	{
+		"image": "img/buttons/audio/audio12.gif",
+		"rollover": "img/buttons/audio/audio12hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio13.gif",
+		"rollover": "img/buttons/audio/audio13hover.gif"
+	},
+
+	{
+		"image": "img/buttons/audio/audio14.gif",
+		"rollover": "img/buttons/audio/audio14hover.gif"
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"image": "img/buttons/web/web01.gif",
+		"rollover": "img/buttons/web/web01hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web02.gif",
+		"rollover": "img/buttons/web/web02hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web03.gif",
+		"rollover": "img/buttons/web/web03hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web04.gif",
+		"rollover": "img/buttons/web/web04hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web05.gif",
+		"rollover": "img/buttons/web/web05hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web06.gif",
+		"rollover": "img/buttons/web/web06hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web07.gif",
+		"rollover": "img/buttons/web/web07hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web08.gif",
+		"rollover": "img/buttons/web/web08hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web09.gif",
+		"rollover": "img/buttons/web/web09hover.gif"
+	},
+
+	{
+		"image": "img/buttons/web/web10.gif",
+		"rollover": "img/buttons/web/web10hover.gif"
+	}
+]

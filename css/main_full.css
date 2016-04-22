@@ -1,0 +1,187 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+	background-color: #444444;
+}
+
+.wrapper {
+	max-width: 1220px;
+	margin: 0 auto;
+}
+
+#mainWrapper {
+	display: none;
+}
+
+.onethird {
+	width: 33.33%;
+	float: left;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+h2 {
+	font-size: 2em;
+	margin-bottom: .5em;
+}
+
+em {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	line-height: 1.25;
+	margin-bottom: 1em;
+	font-family: serif;
+}
+
+ul li {
+	font-family: serif;
+	list-style-type: disc;
+	list-style-position: outside;
+	margin-left: 1em;
+}
+
+.twothirds {
+	width: 66.66%;
+	float: left;
+	text-align: center;
+}
+
+.onethird img, .twothirds img {
+	max-width: 95%;
+	border-radius: 5%;
+}
+
+.row {
+	clear: both;
+	padding: 1.5%;
+}
+
+header {
+	background-color: #D5573B;
+	overflow: auto;
+}
+
+h1, nav a {
+	background-color: #D5573B;
+	color: white;
+	line-height: 1.5;
+	text-align: center;
+	font-size: 3em;
+}
+
+h1 {
+	float: left;
+	padding-left: 20px;	
+}
+
+#dropdown {
+	display: none;
+}
+
+nav {
+	float: right;
+}
+
+/*nav {
+	margin: 0;
+	padding: 0;
+	background-color: #444444;
+	font-size: 3em;
+	color: white;
+	line-height: 1.5;
+	display: block;
+	text-align: center;
+} */
+
+nav a {
+	text-decoration: none;
+}
+
+nav a:hover {
+	background-color: #64A6BD;
+}
+
+#innerNav {
+	background-color: #64A6BD;
+}
+
+#innerNav a {
+	display: block;
+	float: left;
+	color: white;
+/*	border-left: 2px solid white;*/
+	padding: 0 20px 0 20px;
+}
+
+
+
+
+
+/** {
+	border: black solid 1px;
+}*/
+
+#bpmSlider {
+	float: left;
+	width: 458px;
+	margin: 32px 0 0 10px;
+}
+
+#bpmSlider .ui-slider-range{
+	background: #CC0000;
+}
+
+.pads, #start, #stop, #kick, #snare, #hatClosed, #hatOpen {
+	height: 60px;
+	width: 60px;
+	float: left;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.pads {
+	background-color: #A4A6A5;
+
+}
+
+#start {
+	background-color: #006600;
+}
+
+#stop {
+	background-color: #CC0000;
+}
+
+#kick {
+	background-color: purple;
+}
+
+#snare {
+	background-color: orange;
+}
+
+#hatClosed {
+	background-color: teal;
+}
+
+#hatOpen {
+	background-color: navy;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}

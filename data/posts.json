@@ -1,0 +1,21 @@
+[
+	{
+		"tag": "audio",
+		"image": "poordecisions.jpg",
+		"title": "Poor Decisions",
+		"rolloverText": "Poor Decisions",
+		"text": "Tracklist to come.",
+		"audio": "poordecisions.mp3",
+		"link": ""
+	},
+
+	{
+		"tag": "audio",
+		"image": "softerside.jpg",
+		"title": "Softer Side",
+		"rolloverText": "Softer Side",
+		"text": "Tracklist to come.",
+		"audio": "softerside.mp3",
+		"link": ""
+	}
+]
